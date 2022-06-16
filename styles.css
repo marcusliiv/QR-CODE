@@ -29,9 +29,10 @@
     align-items: center;
 }
 
+
 #page {
     width: clamp(375px, 100%, 1440px);
-    height: 1000px;
+    min-height: 100vh;
     background-color:hsl(212, 45%, 89%);
 }
 
