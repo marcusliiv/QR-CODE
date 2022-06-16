@@ -29,7 +29,6 @@
     align-items: center;
 }
 
-
 #page {
     width: clamp(375px, 100%, 1440px);
     min-height: 100vh;
