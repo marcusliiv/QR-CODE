@@ -14,12 +14,12 @@
 }
 
 .page__img {
-    width: 220px;
+    width: 250px;
     border-radius: 12px;
 }
 
 .container{
-    max-width: 250px;
+    max-width: 280px;
     background-color: hsl(0, 0%, 100%);
     border-radius: 12px;
     padding: 16px;
@@ -30,7 +30,7 @@
 
 #page {
     width: clamp(375px, 100%, 1440px);
-    height: 728px;
+    height: 1000px;
     background-color:hsl(212, 45%, 89%);
 }
 
@@ -38,7 +38,7 @@
     display: flex;
     flex-direction: column;
     text-align: center;
-    width: 95%;
+    width: 85%;
 }
 
 .page__text--sub {
